@@ -28,6 +28,7 @@ $ python run.py
 ```
 
 will create:
+
 * app.jsb3      file paths
 * all-debug.js  unpacked file,used for debug
 * all.js        packed file,used in production
